@@ -1,0 +1,22 @@
+{
+  "name": "mrtjmms",
+  "version": "1.0.0",
+  "description": "mrtj mms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiwins/mrtjmms.git"
+  },
+  "author": "wiwins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiwins/mrtjmms/issues"
+  },
+  "homepage": "https://github.com/wiwins/mrtjmms#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
